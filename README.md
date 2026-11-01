@@ -1,22 +1,22 @@
-# 一二宝 · Yi Er Bao
+# 一二 · Yi Er
 
 一只陪你工作的小白熊。 / A little white bear to keep you company while you work.
 
 [中文](#中文) · [English](#english) · [下载 / Download](https://github.com/kjw0716/yi-er-bao/archive/refs/heads/main.zip)
 
 <p align="center">
-  <img src="previews/idle.gif" alt="一二宝待机 / Yi Er Bao idle" width="192">
-  <img src="previews/waving.gif" alt="一二宝挥手 / Yi Er Bao waving" width="192">
-  <img src="previews/running.gif" alt="一二宝工作 / Yi Er Bao working" width="192">
+  <img src="previews/idle.gif" alt="一二待机 / Yi Er idle" width="192">
+  <img src="previews/waving.gif" alt="一二挥手 / Yi Er waving" width="192">
+  <img src="previews/running.gif" alt="一二工作 / Yi Er working" width="192">
 </p>
 
 ## 中文
 
-### 关于一二宝
+### 关于一二
 
-一二宝是由 [kjw0716](https://github.com/kjw0716) 设计的宠物角色：圆圆的白色身体、深棕色的耳朵和轮廓、粉色腮红，还有温柔的小表情。
+一二是由 [kjw0716](https://github.com/kjw0716) 设计的宠物角色：圆圆的白色身体、深棕色的耳朵和轮廓、粉色腮红，还有温柔的小表情。
 
-这个仓库收录了一二宝的最终动画素材、Codex 本地宠物配置和预览图。素材采用透明背景，包含 9 组动作、16 个视线方向，以及一个正面中立视线帧。
+这个仓库收录了一二的最终动画素材、Codex 本地宠物配置和预览图。素材采用透明背景，包含 9 组动作、16 个视线方向，以及一个正面中立视线帧。
 
 ### 动画预览
 
@@ -36,7 +36,7 @@
 
 点击上方的「下载」，或使用 GitHub 的 **Code → Download ZIP**。解压后，可以直接打开 `previews/` 中的 GIF 查看动作。
 
-本仓库中的 `pet.json` 和 `spritesheet.webp` 与作者本机的 Codex 宠物安装文件一致。对于支持这一套本地 v2 宠物格式的 Codex 客户端，可将这两个文件一起放到：
+本仓库采用作者本机使用的 Codex 本地 v2 宠物文件结构，精灵图保持原样，配置中的显示名称为「一二」。对于支持这一套本地 v2 宠物格式的 Codex 客户端，可将这两个文件一起放到：
 
 ```text
 ~/.codex/pets/yi-er-bao/
@@ -52,7 +52,7 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| `pet.json` | 一二宝的名称、描述和 v2 宠物配置 |
+| `pet.json` | 一二的名称、描述和 v2 宠物配置 |
 | `spritesheet.webp` | 安装使用的完整透明精灵图 |
 | `spritesheet.png` | 同一完整精灵图的 PNG 版本 |
 | `layout.json` | 精灵图尺寸、中立视线帧和 16 个方向的坐标 |
@@ -73,9 +73,9 @@
 
 ## English
 
-### Meet Yi Er Bao
+### Meet Yi Er
 
-Yi Er Bao (一二宝) is a pet character designed by [kjw0716](https://github.com/kjw0716): a round white bear with dark brown ears and outlines, pink cheeks, and a gentle expression.
+Yi Er (一二) is a pet character designed by [kjw0716](https://github.com/kjw0716): a round white bear with dark brown ears and outlines, pink cheeks, and a gentle expression.
 
 This repository contains the finished animation assets, a local Codex pet configuration, and previews. The transparent spritesheet includes nine animation states, sixteen look directions, and a neutral front-facing look frame. See the animated gallery above.
 
@@ -83,7 +83,7 @@ This repository contains the finished animation assets, a local Codex pet config
 
 Use the **Download** link at the top or GitHub's **Code → Download ZIP**. After extracting the archive, open the GIFs in `previews/` to view the animations.
 
-The included `pet.json` and `spritesheet.webp` match the author's local Codex pet installation. For a Codex client that supports this local v2 pet format, place both files in:
+This package follows the author's local Codex v2 pet file structure. The spritesheet is unchanged, and the configured display name is 一二 (Yi Er). For a Codex client that supports this local v2 pet format, place both files in:
 
 ```text
 ~/.codex/pets/yi-er-bao/
