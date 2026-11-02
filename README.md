@@ -1,14 +1,21 @@
+<div align="center">
+
 # 一二 · Yi Er
 
-一只陪你工作的小白熊。 / A little white bear to keep you company while you work.
+**一只陪你工作的小白熊。 / A little white bear to keep you company while you work.**
 
-[中文](#中文) · [English](#english) · [下载 / Download](https://github.com/kjw0716/yi-er-bao/archive/refs/heads/main.zip)
+[![Codex pet](https://img.shields.io/badge/Codex-pet%20v2-10A37F?style=flat-square)](#english)
+[![Animations](https://img.shields.io/badge/animations-9%20states-ff8fab?style=flat-square)](#布局--layout)
+[![Look directions](https://img.shields.io/badge/look%20directions-16-8ecae6?style=flat-square)](#布局--layout)
+[![Stars](https://img.shields.io/github/stars/kjw0716/Yier-codex-pet?style=flat-square&color=yellow)](https://github.com/kjw0716/Yier-codex-pet/stargazers)
 
-<p align="center">
-  <img src="previews/idle.gif" alt="一二待机 / Yi Er idle" width="192">
-  <img src="previews/waving.gif" alt="一二挥手 / Yi Er waving" width="192">
-  <img src="previews/running.gif" alt="一二工作 / Yi Er working" width="192">
-</p>
+<img src="previews/idle.gif" alt="一二待机 / Yi Er idle" width="192">
+<img src="previews/waving.gif" alt="一二挥手 / Yi Er waving" width="192">
+<img src="previews/running.gif" alt="一二工作 / Yi Er working" width="192">
+
+[中文](#中文) · [English](#english) · [**下载 / Download**](https://github.com/kjw0716/Yier-codex-pet/archive/refs/heads/main.zip)
+
+</div>
 
 ## 中文
 
@@ -147,3 +154,11 @@ Character design by [kjw0716](https://github.com/kjw0716). This repository prese
 ![16 个视线方向 / Sixteen look directions](previews/look-directions.png)
 
 </details>
+
+---
+
+<div align="center">
+
+喜欢一二的话，点个 [Star](https://github.com/kjw0716/Yier-codex-pet/stargazers) 吧！ · If Yi Er made you smile, a [star](https://github.com/kjw0716/Yier-codex-pet/stargazers) helps more people meet the bear.
+
+</div>
